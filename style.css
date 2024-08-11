@@ -525,7 +525,7 @@
 @media screen and (min-width: 1100px) {
   #es-cerave.es-cerave .es-kv {
     position: relative;
-    background: url(img/kv-bg.png) no-repeat;
+    background: url(./static/img/kv-bg.png) no-repeat;
   }
   #es-cerave.es-cerave .es-kv__img--logo {
     margin-left: 0;
